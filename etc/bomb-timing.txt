@@ -1,0 +1,31 @@
+30 seconds
+    5 x 2 second
+20
+    10 x 1 second
+10
+    10 x 0.5 second
+5
+    20 x 0.25 
+0
+
+
+25 seconds
+    5 x 2 second
+15
+    10 x 1 second
+5
+    5 x 0.5 second
+2.5
+    10 x 0.25 
+0
+
+
+20 seconds
+    5 x 2 second
+10
+    5 x 1 second
+5
+    5 x 0.5 second
+2.5
+    10 x 0.25 
+0

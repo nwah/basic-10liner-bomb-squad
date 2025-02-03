@@ -1,0 +1,51 @@
+[EN]
+
+BOMB DEFUSAL MANUAL
+
+Bomb 1 (3 wires)
+
+Red   - cut #1
+Green - cut #2
+Blue  - cut #3
+
+Bomb 2 (3 wires)
+
+Red striped   - cut #1
+Green striped - cut #2
+Blue striped  - cut #3
+
+
+------------------------------
+[DE]
+
+BOMBENHANDBUCH
+
+Nr. 1 (3 Drähte)
+
+rot   - 1. Schnitt
+grün  - 2. Schnitt
+blau  - 3. Schnitt
+
+Nr. 2 (3 Drähte)
+
+rot gestreift   - 1. Schnitt
+grün gestreift  - 2. Schnitt
+blau gestreift  - 3. Schnitt
+
+
+------------------------------
+[PL]
+
+PRZEWODNIK PO BOMBACH
+
+Nr 1 (3 przewody)
+
+czerwony  - 1. ciecie
+niebieski - 2. ciecie
+zielony   - 3. ciecie
+
+Nr 2 (3 przewody)
+
+cz. w paski - 1. ciecie
+nb. w paski - 2. ciecie
+z. w paski  - 3. ciecie
